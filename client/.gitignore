@@ -1,0 +1,7 @@
+# this will house the react-native files that are soon to come
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+#shoutout to this answer: https://stackoverflow.com/a/932982
